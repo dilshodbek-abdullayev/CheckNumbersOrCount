@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckNumbersOrCount", "CheckNumbersOrCount\CheckNumbersOrCount.csproj", "{F2B53465-CCA4-425A-8259-F8421DC23BCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2B53465-CCA4-425A-8259-F8421DC23BCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2B53465-CCA4-425A-8259-F8421DC23BCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2B53465-CCA4-425A-8259-F8421DC23BCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2B53465-CCA4-425A-8259-F8421DC23BCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A97F853-D948-4878-8D15-A02F18AA8FCE}
+	EndGlobalSection
+EndGlobal
