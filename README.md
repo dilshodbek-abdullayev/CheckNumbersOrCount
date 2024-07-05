@@ -24,3 +24,4 @@ CheckService.PrintRequest(userInput);
   - Letters are appended to the `letters` string and their count is incremented.
   - Digits are appended to the `numbers` string and their count is incremented.
   - Other characters are appended to the `otherCharacters` string and their count is incremented.
+
